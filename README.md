@@ -1,6 +1,15 @@
 # Todo
 
-![Alt text](/public/App_preview.png "App Preview")
+- This is a ToDo application, where a list can be maintained.
+- The items in the list can be marked done, if completed.
+- The items in the list can be edited and deleted.
+- The list of items can be filtered.
+
+  - all -> all the items in the list.
+  - done -> items which are checked/done.
+  - To do -> items which are unchecked/to do.
+
+    ![Alt text](/public/App_preview.png "App Preview")
 
 ## Development server
 
